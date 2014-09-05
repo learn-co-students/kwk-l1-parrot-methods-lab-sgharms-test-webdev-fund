@@ -2,17 +2,12 @@
 tags: methods, return values, kids, ruby
 language: ruby
 level: 1
-type: 1
+type: lab
 ---
 
 # Parrot
 
-In this lab you'll be defining a method called parrot. When you pass parrot a phrase as an argument, the method will output that phrase, but also return the phrase. 
-
-**Note** This lab is explicitly testing your ability to control the return value of a method, not just what it does, but what it returns.
-
-Additionally, the parrot method should have a default phrase.
+In this lab you'll be training some parrots with special talents. Follow along and write your code in the parrot.rb file. Try running your program when you are down. (Hint - You'll be chaining methods, so pay attention to your return values.) 
 
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
-* [Skorks Blog](http://www.skorks.com/) - [Arguments With Default Value](http://www.skorks.com/2009/08/method-arguments-in-ruby/)
