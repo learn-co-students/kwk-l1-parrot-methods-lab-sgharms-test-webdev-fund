@@ -1,4 +1,4 @@
-# Happy Parrot - This parrot is so happy.
+# Happy Parrot - This parrot is so happy. It accepts a 'thing' as its argument and then returns a string where it says how happy it is about the thing!
 def happy_parrot(thing)
   "I am so happy about #{thing}!"
 end
