@@ -1,10 +1,3 @@
----
-tags: methods, return values, kids, ruby
-language: ruby
-level: 1
-type: lab
----
-
 ##Polly Wants a Cracker?
 
 ![parrot](http://1.bp.blogspot.com/-HDI-XiLird8/ToaJsehSY0I/AAAAAAAABso/XHXOU_qDK3k/s1600/Parrot+Funny+Pictures_1.jpg)
@@ -15,7 +8,7 @@ Parrots love to mimic their human companions. In this lab you'll give your parro
 
 ###Method Arguments
 
-We definte methods with arguments as a way of to give our methods an extra piece of information or data to work with. An argument can be any of the datatypes When you're defining a method the arguments are just placeholders that represent what you'll pass in when you call your method. 
+We define methods with arguments as a way of to give our methods an extra piece of information or data to work with. An argument can be any of the data types When you're defining a method the arguments are just placeholders that represent what you'll pass in when you call your method. 
 
 ```
 def my_method_name(argument)
@@ -69,10 +62,10 @@ You can call multiple methods on a number or string by just adding another .meth
  puts "matz is my homeboy".reverse.capitalize
  ```
 If you run these two lines of code you'll see two lines printed to the screen: 
-
+```
 yobemoh ym si ztaM
 Yobemoh ym si ztam
-
+```
 You can quickly see that the two lines to not create the same output. This is just one more reason why it's so important to keep track of the return values of your methods.
 
 Okay, refresher over!
