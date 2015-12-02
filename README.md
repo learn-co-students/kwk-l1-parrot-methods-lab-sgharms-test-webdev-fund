@@ -75,3 +75,4 @@ Fork and clone this lab and follow along and write your code in the `parrot.rb` 
 
 ## Resources
 * [Learn to Program](http://books.flatironschool.com/books/43?page=72) - [9.1 Method Parameters](http://books.flatironschool.com/books/43?page=72), page 72
+<a href='https://learn.co/lessons/hs-ruby-2-parrot-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
